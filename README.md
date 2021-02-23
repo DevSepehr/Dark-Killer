@@ -1,10 +1,15 @@
 # Dark-Killer
 Social network phishing tools. . . !
+
 ### Tested with : **Termux** ###
+
 
 ## Installation :
 ```
 pkg install python
+```
+```
+git clone https://github.com/DevSepehr/Dark-Killer/
 ```
 ```
 cd Dark-Killer
